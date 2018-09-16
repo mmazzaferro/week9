@@ -1,0 +1,23 @@
+{
+  "name": "week9lab",
+  "version": "1.0.0",
+  "description": "Week 9 Lab",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmazzaferro/week9.git"
+  },
+  "author": "Madelyne Mazzaferro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmazzaferro/week9/issues"
+  },
+  "homepage": "https://github.com/mmazzaferro/week9#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.6"
+  }
+}
