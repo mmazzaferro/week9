@@ -18,6 +18,7 @@
   "homepage": "https://github.com/mmazzaferro/week9#readme",
   "dependencies": {
     "express": "^4.16.3",
+    "jquery": "^3.3.1",
     "mongodb": "^3.1.6"
   }
 }
